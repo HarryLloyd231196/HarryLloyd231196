@@ -15,10 +15,7 @@ With all of these skills I am committed to furthering my career as a data analys
 
 ## Data Analytics Projects Projects:
 
-- #### A/B Testing - [Praciting DS & Algos in Python](URL GOES HERE)
-- #### Human Resources Employee Evaluation - [Image Analysis Middleware](URL GOES HERE)
-- #### PowerShell - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](URL GOES HERE)
-- #### C# (.NET Desktop Applications) - [Ransomware Proof of Concept (Encrypter)](URL GOES HERE)
-- #### Python - [Package Delivery Application (Datastructures and Algorithms Demo)](URL GOES HERE)
+- #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
+- <h4> Watch this space . . .</h4>
 
 ## Connect with me on [linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/)
