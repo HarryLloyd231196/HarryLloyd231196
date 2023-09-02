@@ -1,4 +1,4 @@
-<h1>Hi there, my name is Harry and welcome to by data analytics portfolio! </h1>
+<h1>Hi there, my name is Harry and welcome to my data analytics portfolio! </h1>
 
 <h2>A bit about me. . . (Linkedin Bio)</h2>
 
@@ -15,8 +15,6 @@ With all of these skills I am committed to furthering my career as a data analys
 <h2>Data Analytics Projects Projects:</h2> 
 
 - #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
-- <h4> Watch this space . . .</h4>
+- #### Watch this space . . .
 
 ## Connect with me on [linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/)
-<h2> Connect with me on [Linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/) </h2>
-
