@@ -1,7 +1,6 @@
-# Hi there, my name is Harry and welcome to by data analytics portfolio!
+<h1>Hi there, my name is Harry and welcome to by data analytics portfolio! </h1>
 
-## A bit about me. . . (Linkedin Bio)
-
+<h2>A bit about me. . . (Linkedin Bio)</h2>
 
 Since entering into the field of data analytics I have fallen in love with and curiosity it inspires. What began with the University of Newcastle (UON), followed by the University of New England (UNE) and most recently RMIT online, has grown into a passion for leveraging information to deliver excellent outcomes.
 
@@ -13,9 +12,11 @@ Finally, I acquired a Graduate Certificate in Data Science from RMIT Online equi
 
 With all of these skills I am committed to furthering my career as a data analyst, leveraging the knowledge and skills I've gained thus far to make a meaningful impact. Whether in environmental management or intelligent urban design, data analysis serves as a catalyst to proactive and intelligent decision making, and armed with a proficiency in statistical analysis and information communication, I am excited to steer decision-making, foster sustainable practices, and contribute to the creation of a resilient global community.
 
-## Data Analytics Projects Projects:
+<h2>Data Analytics Projects Projects:</h2> 
 
 - #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
 - <h4> Watch this space . . .</h4>
 
 ## Connect with me on [linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/)
+<h2> Connect with me on [Linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/) </h2>
+
