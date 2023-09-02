@@ -15,10 +15,10 @@ With all of these skills I am committed to furthering my career as a data analys
 
 ## Data Analytics Projects Projects:
 
-- #### A/B Testing - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- #### Human Resources Employee Evaluation - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- #### PowerShell - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- #### C# (.NET Desktop Applications) - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- #### Python - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- #### A/B Testing - [Praciting DS & Algos in Python](URL GOES HERE)
+- #### Human Resources Employee Evaluation - [Image Analysis Middleware](URL GOES HERE)
+- #### PowerShell - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](URL GOES HERE)
+- #### C# (.NET Desktop Applications) - [Ransomware Proof of Concept (Encrypter)](URL GOES HERE)
+- #### Python - [Package Delivery Application (Datastructures and Algorithms Demo)](URL GOES HERE)
 
 ## Connect with me on [linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/)
