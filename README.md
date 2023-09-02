@@ -18,3 +18,7 @@ With all of these skills I am committed to furthering my career as a data analys
 - #### Watch this space . . .
 
 ## Connect with me on [linkedin](https://www.linkedin.com/in/harry-lloyd-0887a5190/)
+
+```
+
+```
