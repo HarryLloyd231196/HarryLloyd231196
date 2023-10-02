@@ -12,7 +12,7 @@ Finally, I acquired a Graduate Certificate in Data Science from RMIT Online equi
 
 With all of these skills I am committed to furthering my career as a data analyst, leveraging the knowledge and skills I've gained thus far to make a meaningful impact. Whether in environmental management or intelligent urban design, data analysis serves as a catalyst to proactive and intelligent decision making, and armed with a proficiency in statistical analysis and information communication, I am excited to steer decision-making, foster sustainable practices, and contribute to the creation of a resilient global community.
 
-## Data Analytics Projects Projects:
+## Projects:
 
 - #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
 - #### Watch this space . . .
