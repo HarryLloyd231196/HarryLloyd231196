@@ -1,4 +1,4 @@
-<h1>Hi there, my name is Harry and welcome to my data analytics portfolio! </h1>
+# Hi there, my name is Harry and welcome to my data analytics portfolio!
 
 <h2>A bit about me. . . (Linkedin Bio)</h2>
 
