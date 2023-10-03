@@ -17,6 +17,8 @@ With all of these skills I am committed to furthering my career as a data analys
 - #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
 - #### Watch this space . . .
 
-## Connect with me on [linkedin](https://www.linkedin.com/in/harrylloyd231196/)
-## Hire me through [Upwork](https://www.upwork.com/freelancers/~01116eedd1cb1ce5fa) or send me an email at harrylloyd.data@gmail.com
+## Contacts
+### Connect with me on [linkedin](https://www.linkedin.com/in/harrylloyd231196/)
+### Hire me through [Upwork](https://www.upwork.com/freelancers/~01116eedd1cb1ce5fa)
+### Get in touch at harrylloyd.data@gmail.com
 
