@@ -14,7 +14,8 @@ With all of these skills I am committed to furthering my career as a data analys
 
 ## Projects:
 
-- #### [Employee Churn Analysis (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
+- #### [Employee Churn Analysis: (R)](https://github.com/HarryLloyd231196/Employee_Churn_Project/tree/main)
+- #### [Gross Agricultural Value: (Excel & R)](https://github.com/HarryLloyd231196/Gross_Agricultural_Value)
 - #### Watch this space . . .
 
 ## Contacts
